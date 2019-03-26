@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1552647638 source:/home/adam/Dokumenty/Programowanie/SEM2/proj1/projekt1/liczby.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	"liczby.h"
+
+1552647638 /home/adam/Dokumenty/Programowanie/SEM2/proj1/projekt1/liczby.h
+	<iostream>
+	<string>
+	<limits>
+
+1552593829 source:/home/adam/Dokumenty/Programowanie/SEM2/proj1/projekt1/main.cpp
+	<iostream>
+	<limits>
+	<string>
+	"liczby.h"
+	<iostream>
+	<string>
+
+1552587002 source:/home/adam/Dokumenty/Programowanie/SEM2/proj1/projekt1/testy.cpp
+
+1553112546 source:d:\01 studia\sem2\proi\projekt1\proj1\projekt1\testy.cpp
+	"liczby.h"
+
+1553361737 source:d:\01 studia\sem2\proi\projekt1\proj1\projekt1\main.cpp
+	"liczby.h"
+	"testy.h"
+	"powloka.h"
+
+1553358963 d:\01 studia\sem2\proi\projekt1\proj1\projekt1\liczby.h
+	<iostream>
+	<string>
+	<limits>
+
+1553361737 source:d:\01 studia\sem2\proi\projekt1\proj1\projekt1\liczby.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<string>
+	"liczby.h"
+
+1552990574 d:\01 studia\sem2\proi\projekt1\proj1\projekt1\testy.h
+
+1553359113 d:\01 studia\sem2\proi\projekt1\proj1\projekt1\powloka.h
+
+1553361847 source:d:\01 studia\sem2\proi\projekt1\proj1\projekt1\powloka.cpp
+	"liczby.h"
+	<sstream>
+
